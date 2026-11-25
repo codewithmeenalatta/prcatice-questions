@@ -1,0 +1,7 @@
+javascript is a programming language.
+javascript is very popular.
+node js is used for backend development.
+javascript is easy to learn.
+node js is powerful.
+python is also a programming language.
+javascript is popular and powerful.
